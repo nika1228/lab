@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-// сделать функцию тест с проверкой и инпут. пока тест не пройдет, не переходить к инпуту
+
 #define MAX_LENGTH 100 
 #define MAX_NUMBERS 5
 #define MAX_LETTERS 6
